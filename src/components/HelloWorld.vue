@@ -14,7 +14,7 @@ export default {
   data () {
     return {
       question: '',
-      answer:  'I cannot give you an answer until you ask a question!'
+      answer: 'I cannot give you an answer until you ask a question!'
     }
   },
   methods: {
